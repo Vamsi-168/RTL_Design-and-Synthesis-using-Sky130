@@ -12,4 +12,4 @@
 ## good_counter_netlist.v
 ![WhatsApp Image 2025-06-13 at 3 21 20 PM](https://github.com/user-attachments/assets/77992a72-12a9-431e-a349-7e9622c1663a)
 ![WhatsApp Image 2025-06-13 at 3 21 36 PM](https://github.com/user-attachments/assets/d022896e-5772-44f7-bd24-bfd8a85891d0)
-![WhatsApp Image 2025-06-13 at 3 21 36 PM](https://github.com/user-attachments/assets/d5fdd1b3-2b31-4c89-aaba-5232d572a967)
+

@@ -44,9 +44,8 @@ A testbench is a simulation wrapper that drives input signals to the design and 
 - Open the .vcd file in GTKWave, a waveform viewer, to analyze signal transitions and verify the logic visually.
   
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3ca190fb-cfa4-4abb-b9e1-0151b3c4bdba" alt="iverilog Simulation Flow" width="70%">
+  <img src="https://github.com/user-attachments/assets/56c45c58-4227-48af-bb48-9c8246e21b3a" alt="GTKWave Example" width="70%">
 </div>
-
 ## 3. Loading design to iverilog:
 Eg : good_mux.v tb_good_mux.v
 
@@ -65,6 +64,10 @@ tb_good_mux.vcd will be generated
 > gtkwave tb_good_mux.vcd
 - View the waveform to check then input and output of the design.
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5ec98208-21c1-4776-872d-392e23a186da" alt="GTKWave Example" width="70%">
+</div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/701e8189-3101-4a82-8134-e799521b9a8b" alt="GTKWave Example" width="70%">
 </div>
@@ -87,7 +90,9 @@ Yosys is an open-source framework for Verilog RTL synthesis. It reads your Veril
 - Integrates well with tools like **nextpnr**, **ABC**, and **GHDL**
 
 ---
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4829a1ef-7e14-4b2d-9136-d67c3616b89b" alt="GTKWave Example" width="70%">
+</div>
 
 
 ## 5. Synthesis Lab with Yosys
@@ -126,4 +131,7 @@ Let’s synthesize the `good_mux` design using Yosys!
     show
     ```
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/798b0f47-d38c-40d9-a124-52a0bb7b97ae" alt="GTKWave Example" width="70%">
+</div>
 

@@ -66,6 +66,7 @@ Cloning duplicates logic that is read by multiple modules or registers. It helps
 Example Use Case:
 - When multiple downstream registers read from the same combinational logic, cloning creates separate logic copies per path to isolate timing impact.
 - This helps improve performance at the expense of slightly increased area.
+![image](https://github.com/user-attachments/assets/65da61d9-bac5-4811-bd38-57e28988f383)
 
 ## Retiming
 Retiming moves flip-flops across combinational logic — forward or backward — to optimize the placement of registers and balance pipeline stages.
@@ -81,6 +82,7 @@ DFF -> [long logic] -> DFF
 > After Retiming:
 DFF -> [short logic] -> DFF -> [short logic] -> DFF
 Retiming is often used to increase clock frequency by minimizing the longest combinational path between registers.
+![image](https://github.com/user-attachments/assets/fe84229b-559a-4eda-a544-52d77aa06367)
 
 ---
  ## Summary Table

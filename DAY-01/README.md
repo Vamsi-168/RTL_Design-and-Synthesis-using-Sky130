@@ -134,4 +134,35 @@ Let’s synthesize the `good_mux` design using Yosys!
 <div align="center">
   <img src="https://github.com/user-attachments/assets/798b0f47-d38c-40d9-a124-52a0bb7b97ae" alt="GTKWave Example" width="70%">
 </div>
+---
+# Logic Synthesis 
+## RTL design
+- Behavioral representation of the required specification.
+## Synthesis 
+- RTL to Gate level translation.
+- The design is converted into gates and the connections are made between the gates.
+- This is given out as the file called **Netlist**.
+
+---
+
+# What is .lib 
+- Collection of logical modules.
+- includes basic gates like and, or, not etc,.
+- There will be different flavours of same gate.
+![Screenshot (271)](https://github.com/user-attachments/assets/0d31ced3-4b65-45e1-a82e-6dfce96eccaa)
+
+## Why different flavours of gate 
+![Screenshot (272)](https://github.com/user-attachments/assets/3298eba2-c699-4dd5-8f24-7f4ccefe757c)
+
+## Why do we need Slow cells 
+![Screenshot (274)](https://github.com/user-attachments/assets/c8c6cbc1-2256-44cb-b4f1-8006dfe6b1f9)
+
+## Faster cells vs Slower cells 
+![Screenshot (275)](https://github.com/user-attachments/assets/196c945a-fe2f-42b5-b057-d8e01401dd22)
+
+## Selection of cells 
+![Screenshot (276)](https://github.com/user-attachments/assets/6a50b3be-7973-4672-b230-a521105b2e02)
+
+
+
 

@@ -1,4 +1,6 @@
 # Labs
+## Yosys flow for Combinational ckt optimization :
+![image](https://github.com/user-attachments/assets/a162374e-43ac-4b62-b145-9f4c6baa8117)
 ## Opt_check
 ### Code :
 ![image](https://github.com/user-attachments/assets/279f18fe-8f87-415d-ad63-3ef034fff299)
@@ -33,6 +35,8 @@
 ![image](https://github.com/user-attachments/assets/4ada11b6-1279-4fa0-88f0-6702162b32e8)
 
 ---
+## Yosys flow for Sequential ckt optimization :
+![image](https://github.com/user-attachments/assets/a8e04776-f2ff-4aeb-8c82-512120679db2)
 ## dff_const1 
 ### Code :
 ![image](https://github.com/user-attachments/assets/a405afe6-2427-46a2-979e-3ca9b8d75ded)

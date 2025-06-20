@@ -15,11 +15,15 @@
 ## Simulation :
 ![good_mux_sim](https://github.com/user-attachments/assets/d89fccc7-0948-4b31-90b4-9a934b9c51d2)
 ## synthesized Gate level netlist :
-![WhatsApp Image 2025-06-13 at 3 20 40 PM](https://github.com/user-attachments/assets/d17ea9dd-bb57-45f1-9ea1-ef9f6b20001b)
+![image](https://github.com/user-attachments/assets/a8a36266-1772-4d1c-a3a0-76d2648cb9f2)
+
 
 ---
+# good_counter
+## good_counter Simulation :
+![image](https://github.com/user-attachments/assets/9dfb6fe9-7c55-4700-99b6-62ba79bbc8ec)
 ## good_Counter Gate level netlist :
-![WhatsApp Image 2025-06-13 at 3 21 04 PM](https://github.com/user-attachments/assets/65923e45-41f1-4d4a-9ee8-843bd5c35ae5)
+![image](https://github.com/user-attachments/assets/fe877e8b-70f8-4359-86ff-c19eea5eb04e)
 ## good_counter_netlist.v
 ![WhatsApp Image 2025-06-13 at 3 21 20 PM](https://github.com/user-attachments/assets/77992a72-12a9-431e-a349-7e9622c1663a)
 ![WhatsApp Image 2025-06-13 at 3 21 36 PM](https://github.com/user-attachments/assets/d022896e-5772-44f7-bd24-bfd8a85891d0)
